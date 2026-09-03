@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Data, models and notebooks
+data/
+models/
+notebooks/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+.log
+
+# Pytest
+.pytest_cache/
+
+# Secrets
+.env
+env.*
